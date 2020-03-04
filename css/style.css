@@ -1,0 +1,13 @@
+.selected {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.star-icon {
+  color: #28a745;
+  margin-left: 15px;
+}
+
+.selected .star-icon {
+  color: #fff;
+}
